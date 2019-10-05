@@ -3,9 +3,6 @@
     {
       "id": "preset1",
       "name": "preset1",
-      "text": "preset1",
-      "value": "preset1",
-      "key": "preset1",
       "settings": {
         "panel_thickness": 16,
         "blade_thickness": 4,
