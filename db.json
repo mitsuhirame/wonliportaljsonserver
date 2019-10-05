@@ -1,6 +1,7 @@
 {
   "presets": [
     {
+      "id": "preset1",
       "name": "preset1",
       "text": "preset1",
       "value": "preset1",
